@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Антивірус Tencent</string>
+    <string name="hello_world">Привіт світ!</string>
+    <string name="menu_settings">Налаштування</string>
+	<string name="AVL">AVL</string>
+    <string name="DesAVL">AVL</string>
+    <string name="DesMi">Mi</string>
+    <string name="DesTencent">Tencent</string>
+    <string name="Mi">Mi</string>
+    <string name="Tencent">Tencent</string>
+    <string name="avl_dialog_cloudscan" />
+    <string name="avl_dialog_dbupdate" />
+    <string name="avl_dialog_header">ID Вашого пристрою буде зашифровано та надіслано на сервер AVL (%s)</string>
+    <string name="avl_dialog_policy">Політика конфіденційності</string>
+    <string name="avl_dialog_title">Політика конфіденційності AVL</string>
+    <string name="tencent_dialog_cloudscan">Завантажити відомості про застосунки на сервер для сканування вірусів</string>
+    <string name="tencent_dialog_dbupdate">Автооновлення бази даних</string>
+    <string name="tencent_dialog_header">ID Вашого пристрою буде зашифровано та надіслано на сервер Tencent (%s)</string>
+    <string name="tencent_dialog_policy">Політика конфіденційності</string>
+    <string name="tencent_dialog_title">Політика конфіденційності Tencent</string>
+</resources>

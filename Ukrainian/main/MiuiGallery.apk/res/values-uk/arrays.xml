@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="slideshow_time_entries">
+        <item>5 хвилин</item>
+        <item>15 хвилин</item>
+        <item>30 хвилин</item>
+        <item>1 година</item>
+        <item>Нескінченно</item>
+    </string-array>
+	<string-array name="baby_sexy">
+       <item>Хлопчик</item>
+       <item>Дівчинка</item>
+    </string-array>
+    <string-array name="owner_relation">
+       <item>Тато</item>
+       <item>Мати</item>
+       <item>Дідусь</item>
+       <item>Бабуся</item>
+       <item>Дідусь</item>
+       <item>Бабуся</item>
+    </string-array>
+</resources>
