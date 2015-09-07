@@ -578,7 +578,7 @@
     <string name="saving_conflict_dialog_cancel">Скасувати</string>
     <string name="saving_conflict_dialog_ok">ОК</string>
     <string name="saving_conflict_dialog_title">Попередження</string>
-    <string name="saving_conflict_restrictbackground_msg">Дозволити фонові з'єднання та увімкнути стиснення трафіку?</string>
+    <string name="saving_conflict_restrictbackground_msg">"Дозволити фонові з'єднання та увімкнути стиснення трафіку?"</string>
     <string name="text_day" />
     <string name="traffic_setting_fragment_area_dual">Країна: %s</string>
 	<string name="main_message_no_package_by_dual">Встановити обмеження трафіку для %s</string>

@@ -122,12 +122,11 @@
         <item quantity="one">Роблокувати телефонний номер: 1?</item>
      </plurals>
 	 <plurals name="cloud_state_unsynced_count">
-	 <plurals name="cloud_state_unsynced_count">
 	    <item quantity="other">Несинхронізованих контактів: %d</item>
         <item quantity="one">Несинхронізованих контактів: %d</item>
-    </plurals>
-    <plurals name="contacts_count">
+     </plurals>
+     <plurals name="contacts_count">
         <item quantity="other">Контактів: %1$d</item>
         <item quantity="one">Контактів: %1$d</item>
-    </plurals>
+     </plurals>
 </resources>

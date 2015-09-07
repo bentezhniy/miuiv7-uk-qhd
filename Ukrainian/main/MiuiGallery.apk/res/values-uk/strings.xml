@@ -764,7 +764,7 @@
     <string name="more_face_album_name">Інші обличчя</string>
     <string name="mosaic">Мозаїка</string>
     <string name="mtxx">Telegram</string>
-    <string name="operation_give_name">Ім'я</string>
+    <string name="operation_give_name">"Ім'я"</string>
     <string name="paint_brush">Пензлик</string>
     <string name="pet_album_display_name">Фото тварин</string>
     <string name="phone_number_empty_alert">Додати номер телефону</string>
