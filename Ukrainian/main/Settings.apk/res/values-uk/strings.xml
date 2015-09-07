@@ -4029,7 +4029,7 @@
     <string name="wifi_aggressive_handover">Перемикатися на мобільну мережу</string>
     <string name="wifi_aggressive_handover_summary">Примусово перемикатися на мобільну мережу, якщо сигнал Wi-Fi слабкий</string>
     <string name="wifi_allow_scan_with_traffic">Завжди вмикати пошук мереж Wi-Fi</string>
-    <string name="wifi_allow_scan_with_traffic_summary">Вмикати або вимикати пошук мереж Wi-Fi під час передачі даних в залежності від об'єму трафіку</string>
+    <string name="wifi_allow_scan_with_traffic_summary">"Вмикати або вимикати пошук мереж Wi-Fi під час передачі даних в залежності від об'єму трафіку"</string>
     <string name="wifi_assistant_card_message">Автоматично підключатися до мереж з допомогою асистента Wi-Fi.</string>
     <string name="wifi_assistant_intro_setup">"Презентуємо
 Асистент Wi-Fi"</string>
