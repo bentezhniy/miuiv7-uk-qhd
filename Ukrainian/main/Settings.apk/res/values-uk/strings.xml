@@ -3948,8 +3948,8 @@
     <string name="tethering_settings_not_available">Цей користувач не може змінити настройки модема</string>
     <string name="theme_settings_title">Теми</string>
     <string name="title_font2">Шрифт</string>
-    <string name="title_font_current2">Оберіть шрифт</string>
-    <string name="title_layout_current2">Оберіть розмір шрифту</string>
+    <string name="title_font_current2">Шрифт</string>
+    <string name="title_layout_current2">Розмір шрифту</string>
     <string name="touch_sounds_title">Звук натискання на екран</string>
     <string name="tts_lang_use_system">Мова</string>
     <string name="uicc_eject">Відключити сховище UICC</string>

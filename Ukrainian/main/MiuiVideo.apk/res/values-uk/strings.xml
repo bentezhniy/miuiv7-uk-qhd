@@ -571,4 +571,5 @@
 	<string name="need_upgrade_button">Оновити</string>
     <string name="need_upgrade_summary">Ця функціядоступна лише у новій версії</string>
     <string name="need_upgrade_title">Необхідне оновлення</string>
+	<string name="vp_media_type_banned">Цей формат не підтримується</string>
 </resources>

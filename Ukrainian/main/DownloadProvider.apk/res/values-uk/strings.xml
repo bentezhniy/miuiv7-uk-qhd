@@ -72,4 +72,40 @@
 
 Не вдалося отримати інформацію про розмір файлу. Для завантаження через мобільний трафік натисніть \"%s\". Щоб зачекати завантаження через Wi-Fi натисніть \"%s\"."</string>
     <string name="recommended_no_file_size_download_in_mobile" formatted="false">Не вдалося отримати інформацію про розмір файлу. Для завантаження через мобільний трафік натисніть \"%s\". Щоб зачекати завантаження через Wi-Fi натисніть \"%s\".</string>
+	<string name="about">Про застосунок</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="app_name">Провідник</string>
+    <string name="auth_fail">Помилка авторизації</string>
+    <string name="cancel">Скасувати</string>
+    <string name="confirm">ОК</string>
+    <string name="create_task">Додати завантаження</string>
+    <string name="do_not_support_url">Неправильний URL</string>
+    <string name="download_auth">Авторизація…</string>
+    <string name="downloaded">Завантаження завершене</string>
+    <string name="downloading">Завантаження…</string>
+    <string name="edit_hint">Введіть URL</string>
+    <string name="file_picker">Оберіть теку</string>
+    <string name="input_valid_address">Оберіть теку завантажень</string>
+    <string name="install">Встановити</string>
+    <string name="installing">Встановлення…</string>
+    <string name="invalid_address">Неправильна тека</string>
+    <string name="network_error">Помилка підключення до Інтернету</string>
+    <string name="new_add">Додати</string>
+    <string name="open">Відкрити</string>
+    <string name="paused">Пауза</string>
+    <string name="pref_download_revert_default">Використовувати теку за замовчуванням</string>
+    <string name="pref_download_storage_path">Тека завантажень</string>
+    <string name="revert_default">Скидання налаштувань</string>
+    <string name="revert_download_path">Використовувати теку за замовчуванням?</string>
+    <string name="save_path">"Тека завантажень: "</string>
+    <string name="setting_close_debug">Режим налагодження вимкнено</string>
+    <string name="setting_debug_fail">Помилка входу до режиму налагодження</string>
+    <string name="setting_open_debug">Режим налагодження увімкнено</string>
+    <string name="start_analysis">Перевірка</string>
+    <string name="start_download">Завантажити</string>
+    <string name="starting_analysis">Отримання інформації…</string>
+    <string name="storage_internal">"Внутрішня пам'ять"</string>
+    <string name="storage_sd_card">SD-карта</string>
+    <string name="storage_usb">USB-накопичувач</string>
+    <string name="version">Версія: %s</string>
 </resources>
